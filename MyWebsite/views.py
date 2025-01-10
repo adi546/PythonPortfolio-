@@ -11,7 +11,7 @@ def projects(request):
     projects_show=[
 
         {"title":"Recruitment System API", 
-         "path":"images/recruitment-system-img.jpeg",
+         "path":"images/Recruitment-system-img.jpeg",
          "url": "https://github.com/hrutikas2002/Recruitment_System_FastAPI/tree/main"},
 
          {"title":"Audio Transcription and Summarization System", 
